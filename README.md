@@ -14,5 +14,5 @@
 a lo que se desea, por lo qué aún se tiene en aviso.
 </h6>
 
-<h6>Cambios</h6>
+<h6>#Cambios</h6>
 - Al finalizar la capa tres se agregaran los cambios que si o si, se reflejarán en nuestro proyecto y serán agregadas en este archivo.
